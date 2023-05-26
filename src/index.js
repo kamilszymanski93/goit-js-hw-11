@@ -31,3 +31,5 @@ function galeryCreator(e) {
   });
 }
 searchForm.addEventListener('submit', galeryCreator);
+
+console.log(':)');
